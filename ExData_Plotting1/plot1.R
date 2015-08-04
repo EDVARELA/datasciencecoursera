@@ -1,18 +1,4 @@
-Skip to content
-This repository  
-Pull requests
-Issues
-Gist
- @Eduvar
- Watch 1
-  Star 0
-  Fork 27,939
-EPadronU/ExData_Plotting1
-forked from rdpeng/ExData_Plotting1
-Branch: master  ExData_Plotting1/plot1.R
-@EPadronUEPadronU 25 days ago Clean some unused code from the scripts
-1 contributor
-RawBlameHistory     97 lines (80 sloc)  3.097 kB
+
 ################################################################################
 ################################################################################
 
